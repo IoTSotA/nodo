@@ -1,4 +1,3 @@
-#
 TOPTARGETS := all clean term
 
 SUBDIRS := src
